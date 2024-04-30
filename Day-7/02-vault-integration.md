@@ -48,7 +48,7 @@ sudo apt update
 **Finally, Install Vault**
 
 ```
-sudo apt install vault
+sudo apt install vault  or sudo snap install vault
 ```
 
 ## Start Vault.
